@@ -1,5 +1,6 @@
 import React from 'react'
-import "./Home.scss"
+
+
 const Home = () => {
   return (
     <div>
@@ -9,3 +10,4 @@ const Home = () => {
 }
 
 export default Home
+
